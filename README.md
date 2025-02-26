@@ -19,6 +19,18 @@
 <img src="https://upload.wikimedia.org/wikipedia/fr/c/cf/Logo_Mortal_Kombat_1_2024_new.png" width="180px" height="180px">
 <a href="https://megaup.net/1Xgqo/Mortal_Kombat_1_(NSP)(eShop).part1.rar">PARTE 1</a> 
 <a href="https://megaup.net/1Xgqv/Mortal_Kombat_1_(NSP)(eShop).part2.rar">PARTE 2</a>
+	<a href="">UPDATE 1.1</a>
+	<a href="">UPDATE 1.2</a>
+	<a href="">UPDATE 1.3</a>
+	<a href="">UPDATE 1.4</a>
+	<a href="">UPDATE 1.5</a>
+	<a href="">UPDATE 2.1</a>
+	<a href="">UPDATE 2.2</a>
+	<a href="">UPDATE 2.3</a>
+	<a href="">UPDATE 2.4</a>
+	<a href="">UPDATE 2.5</a>
+	<a href="">DLC 1</a>
+	<a href="">DLC 2</a>
 <h1>SUPER SMASH BROS</h1>
 <img src="https://images.gamebanana.com/img/ss/mods/63ce38c532361.jpg" width="180px" height="180px">
 <a href="https://megaup.net/1w57t/SSB-U-RF-NSwTcH-NSP-Ziperto.part1.rar">PARTE 1</a>
