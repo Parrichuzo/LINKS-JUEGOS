@@ -21,7 +21,10 @@
 <a href="https://megaup.net/1Xgqv/Mortal_Kombat_1_(NSP)(eShop).part2.rar">PARTE 2</a>
 <h1>SUPER SMASH BROS</h1>
 <img src="https://images.gamebanana.com/img/ss/mods/63ce38c532361.jpg" width="180px" height="180px">
-<a href="https://filecrypt.co/Container/CF7EB30614.html">PARTES</a>
+<a href="https://megaup.net/1w57t/SSB-U-RF-NSwTcH-NSP-Ziperto.part1.rar">PARTE 1</a>
+<a href="https://megaup.net/1w5at/SSB-U-RF-NSwTcH-NSP-Ziperto.part2.rar">PARTE 2</a>
+<a href="https://megaup.net/1w5dx/SSB-U-RF-NSwTcH-NSP-Ziperto.part3.rar">PARTE 3</a>
+<a href="https://megaup.net/1w5gd/SSB-U-RF-NSwTcH-NSP-Ziperto.part4.rar">PARTE 4</a>
 <a href="https://megaup.net/a5b3bdc7e8cae0f479c9547fbb4a5236/Super_Smash_Bros._Ultimate_[01006A800016E800][v1900544][US].nsp.rar">UPDATE 1</a>
 <a href="https://megaup.net/l0Abm/Super_Smash_Bros._Ultimate_[01006A800016E800][v1835008][US].nsp.rar">UPDATE 2</a>
 <a href="https://megaup.net/5c7b4badfbe960a6c756bbc0391cf4de/SSBU_[99DLC][US]_NSP_(2).rar">DLC</a>
