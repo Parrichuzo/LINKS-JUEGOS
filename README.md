@@ -27,10 +27,10 @@
 <a href="https://megaup.net/5c7b4badfbe960a6c756bbc0391cf4de/SSBU_[99DLC][US]_NSP_(2).rar">DLC</a>
 <h1>MARIO KART</h1>
 <img src="https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453" width="250px" height="180px">
-<a href="">PARTE 1</a>
-<a href="">PARTE 2</a>
-<a href="">UPDATE</a>
-<a href="">DLC</a>
+<a href="https://megaup.net/2j2H9/Mario_Kart_8_Deluxe_[0100152000022000][v0].nsp.part1.rar">PARTE 1</a>
+<a href="https://megaup.net/2j2H7/Mario_Kart_8_Deluxe_[0100152000022000][v0].nsp.part2.rar">PARTE 2</a>
+<a href="https://megaup.net/0be475c436388f50beb8c231223adc76/Mario_Kart_8_Deluxe_[0100152000022800][v1245184][US].nsp.rar">UPDATE</a>
+<a href="https://megaup.net/1jxrr/Mario_Kart_8_Deluxe_(NSP)(Booster_Course_Wave_1_to_6).rar">DLC</a>
 </div>
 </body>
 </html>
