@@ -39,6 +39,8 @@
 	<a href="">DLC 2</a>
 <h1>SUPER SMASH BROS</h1>
 <img src="https://images.gamebanana.com/img/ss/mods/63ce38c532361.jpg" width="180px" height="180px">
+
+
 <a href="https://megaup.net/1w57t/SSB-U-RF-NSwTcH-NSP-Ziperto.part1.rar">PARTE 1</a>
 <a href="https://megaup.net/1w5at/SSB-U-RF-NSwTcH-NSP-Ziperto.part2.rar">PARTE 2</a>
 <a href="https://megaup.net/1w5dx/SSB-U-RF-NSwTcH-NSP-Ziperto.part3.rar">PARTE 3</a>
@@ -52,6 +54,12 @@
 <a href="https://megaup.net/2j2H7/Mario_Kart_8_Deluxe_[0100152000022000][v0].nsp.part2.rar">PARTE 2</a>
 <a href="https://megaup.net/0be475c436388f50beb8c231223adc76/Mario_Kart_8_Deluxe_[0100152000022800][v1245184][US].nsp.rar">UPDATE</a>
 <a href="https://megaup.net/1jxrr/Mario_Kart_8_Deluxe_(NSP)(Booster_Course_Wave_1_to_6).rar">DLC</a>
+
+<h1>MARIO PARTY JAMBOREE</h1>
+
+<a href="https://download.megaup.net/?idurl=0lixLaV5L89JKamcHXUbeov+FqCFUvG+T7q9g5O934gkFnneBQsn5bD1AvIT5V4X6CBjrRfq964qN2F9w5r65V7Ix5RqUPr1cn5wvrpKkEiLXaTKFsXCsFRxpbHTxvtXNjlVH0cLMFkTGWSa8vy3QA==&idfilename=Super%20Mario%20Party%20Jamboree%20(NSP)(eShop).rar&idfilesize=5.29%20GB">JUEGO COMPLETO</a>
+<a href="">UPDATE</a>
+
 </div>
 </body>
 </html>
