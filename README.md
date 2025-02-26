@@ -59,7 +59,9 @@
 <img src="https://www.egames.news/__export/1718725592477/sites/debate/img/2024/06/18/super_mario_party_jamboree_01_1.jpg_554688468.jpg" width="180px" height="180px">
 
 <a href="https://download.megaup.net/?idurl=0lixLaV5L89JKamcHXUbeov+FqCFUvG+T7q9g5O934gkFnneBQsn5bD1AvIT5V4X6CBjrRfq964qN2F9w5r65V7Ix5RqUPr1cn5wvrpKkEiLXaTKFsXCsFRxpbHTxvtXNjlVH0cLMFkTGWSa8vy3QA==&idfilename=Super%20Mario%20Party%20Jamboree%20(NSP)(eShop).rar&idfilesize=5.29%20GB">JUEGO COMPLETO</a>
-<a href="">UPDATE</a>
+
+
+<a href="https://megaup.net/32098117b96cc87bf92b497f3cbad65b/Super_Mario_Party_Jamboree_[0100965017338800][v131072][US].nsp.rar">UPDATE</a>
 
 </div>
 </body>
