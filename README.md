@@ -42,7 +42,7 @@
  <a href="">DLC 1</a>
 	<a href="">DLC 2</a>
 <h1>SUPER SMASH BROS</h1>
-<img src="[https://images.gamebanana.com/img/ss/mods/63ce38c532361.jpg](https://2.bp.blogspot.com/-OeFRDg9DI3w/XBDL1a4lYhI/AAAAAAAALs4/GA1RKpSEucQ2t2oNrc5dW_dzRuvTf1NuwCLcBGAs/s1600/1a.jpg)" width="180px" height="180px">
+<img src="https://2.bp.blogspot.com/-OeFRDg9DI3w/XBDL1a4lYhI/AAAAAAAALs4/GA1RKpSEucQ2t2oNrc5dW_dzRuvTf1NuwCLcBGAs/s1600/1a.jpg" width="180px" height="180px">
 
 
 <a href="https://megaup.net/1w57t/SSB-U-RF-NSwTcH-NSP-Ziperto.part1.rar">PARTE 1</a>
@@ -67,7 +67,7 @@
 
 
 <h1>MARIO KART</h1>
-<img src="[https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_656/b_white/f_auto/q_auto/ncom/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453](https://1.bp.blogspot.com/-hEWTu9QZBTo/W7y6x3GjEMI/AAAAAAAAUsc/MQCwUt66GPAwPT3-22rg_eCXUA5ZHS0PwCLcBGAs/s1600/89.jpg)" width="180px" height="180px">
+<img src="https://1.bp.blogspot.com/-hEWTu9QZBTo/W7y6x3GjEMI/AAAAAAAAUsc/MQCwUt66GPAwPT3-22rg_eCXUA5ZHS0PwCLcBGAs/s1600/89.jpg" width="180px" height="180px">
 
 
 <a href="https://megaup.net/2j2H9/Mario_Kart_8_Deluxe_[0100152000022000][v0].nsp.part1.rar">PARTE 1</a>
@@ -82,7 +82,7 @@
 <a href="https://megaup.net/1jxrr/Mario_Kart_8_Deluxe_(NSP)(Booster_Course_Wave_1_to_6).rar">DLC</a>
 
 <h1>MARIO PARTY JAMBOREE</h1>
-<img src="[https://www.egames.news/__export/1718725592477/sites/debate/img/2024/06/18/super_mario_party_jamboree_01_1.jpg_554688468.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFH4aADaammzUCBgxY0mDZczbSWqHUIvmsXkH4ptfoUHOq1GENyv7wOC-BOWDEWz63wscvC8AiRriGaJPncB2u6a4-DJINMYHlz3xQLXesQps_ga2eB3fN6pF5ZMdR-KzkL1PA6iWGT3G2GxSzj9WjvkBLfGDfpV-AweY-HIi4RUcFMbiR543YHP4NYss/s1600/2.jpg)" width="180px" height="180px">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFH4aADaammzUCBgxY0mDZczbSWqHUIvmsXkH4ptfoUHOq1GENyv7wOC-BOWDEWz63wscvC8AiRriGaJPncB2u6a4-DJINMYHlz3xQLXesQps_ga2eB3fN6pF5ZMdR-KzkL1PA6iWGT3G2GxSzj9WjvkBLfGDfpV-AweY-HIi4RUcFMbiR543YHP4NYss/s1600/2.jpg" width="180px" height="180px">
 
 
 <a href="https://download.megaup.net/?idurl=0lixLaV5L89JKamcHXUbeov+FqCFUvG+T7q9g5O934gkFnneBQsn5bD1AvIT5V4X6CBjrRfq964qN2F9w5r65V7Ix5RqUPr1cn5wvrpKkEiLXaTKFsXCsFRxpbHTxvtXNjlVH0cLMFkTGWSa8vy3QA==&idfilename=Super%20Mario%20Party%20Jamboree%20(NSP)(eShop).rar&idfilesize=5.29%20GB">JUEGO COMPLETO</a>
